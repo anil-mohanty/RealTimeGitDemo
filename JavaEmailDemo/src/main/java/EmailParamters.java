@@ -1,4 +1,4 @@
-
+/* Develpoed By Sreenutech*/
 public class EmailParamters {
 private String username;
 private String password;
